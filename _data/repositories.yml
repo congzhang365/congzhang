@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - congzhang365
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - congzhang365/Praat
+  - congzhang365/PythonScripts
+  - congzhang365/featureTTS
+  - congzhang365/rhythm.metrics
+  - congzhang365/charsiu
+  - congzhang365/CharsiuG2P
+  

@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Cong Zhang
+    - name: Email
+      value: congzhang.newcastle@gmail.com
+    - name: Last updated
+      value: August 2022
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: DPhil
+      institution: University of Oxford, Oxford, UK
+      year: 2018
       description:
         - Description 1.
         - Description 2.

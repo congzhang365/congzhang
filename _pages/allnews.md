@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "news"
 excerpt: "news archive"
 sitemap: false

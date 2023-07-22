@@ -1,0 +1,14 @@
+- title: Current Teaching
+  type: time_table
+  contents:
+    - title: Pioneer Award
+      institution: Newcastle University
+      year: 2022
+      description:
+        - "[SPE1053] Linguistics and Phonetics I"
+        - "[SPE2052] Linguistics and Phonetics II"
+    - title: Postgraduates
+      year: 2022
+      description:
+        - "[SPE8151] Phonetics I: Speaker, Speech and Language"
+        - "[SPE8210] Phonetics II: Gesture, Segment, Prosody"

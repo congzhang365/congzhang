@@ -2,24 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: cong.zhang at newcastle.ac.uk
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: False # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Newcastle upon Tyne, UK</p>
+    <p>张聪</p>
+    <p>Lecturer in Phonetics and Phonology</p>
+    <p>Newcastle University</p>
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m Cong Zhang ([tsʰʊŋ tʃɑŋ], each with a high-level tone (tone number 55, [more about my name]). I am a Lecturer in Phonetics and Phonology at the School of Education, Communication and Language Sciences, Newcastle University, UK.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research mainly focuses on aspects of speech prosody (e.g. intonation, lexical tone, rhythm), using a variety of approaches including:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Phonetics and Phonology (Laboratory Phonology)
+- Psycholinguistics
+- Computational linguistics
+- Language Acquisition
+
+I received a DPhil degree from the Language and Brain Lab, University of Oxford. My DPhil thesis, supervised by Professor Aditi Lahiri, was about the intonational tunes in a tonal language — Tianjin Mandarin ([More about my DPhil project]).
+
+I did my Master’s in Linguistics and Language Acquisition from the School of English Literature, Language and Linguistics, Newcastle University (UK). There, I worked on a number of projects including child language acquisition, second language acquisition, Mandarin lexical tone perception, etc.
+
+For my undergraduate degree, I studied Translation and Interpreting at Beijing Foreign Studies University (China). I am therefore also interested in studies about translation and interpreting.
+
+Following my DPhil, I worked as a TTS linguist (Linguistics Engineer) in A-Lab at Rokid Inc. One of my major projects was Singing Synthesis (text-to-singing). After this, I came back to academia and worked on the ERC project SPRINT (i.e. Speech Prosody in Interaction: The form and function of intonation in human communication, ERC-ADG-835263 ) and further looked into the aspects of English and Greek intonation in speech production.

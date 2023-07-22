@@ -13,7 +13,7 @@ footer_text: >
 keywords: cong, cong zhang, newcaslte, oxford, linguistics, prosody, phonetics, phonology, speech  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: prof_pic.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: 'http://localhost:4000' # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/

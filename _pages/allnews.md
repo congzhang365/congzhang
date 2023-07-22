@@ -1,9 +1,9 @@
 ---
 title: "news"
 excerpt: "news archive"
-sitemap: true
+sitemap: false
 permalink: /news/
-nav: true
+nav: false
 ---
 
 # news archive

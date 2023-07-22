@@ -17,6 +17,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+cv: true
 ---
 
 Hi! I’m Cong Zhang ([tsʰʊŋ tʃɑŋ], each with a high-level tone (tone number 55, [more about my name]). I am a Lecturer in Phonetics and Phonology at the School of Education, Communication and Language Sciences, Newcastle University, UK.
@@ -35,3 +36,7 @@ I did my Master’s in Linguistics and Language Acquisition from the School of E
 For my undergraduate degree, I studied Translation and Interpreting at Beijing Foreign Studies University (China). I am therefore also interested in studies about translation and interpreting.
 
 Following my DPhil, I worked as a TTS linguist (Linguistics Engineer) in A-Lab at Rokid Inc. One of my major projects was Singing Synthesis (text-to-singing). After this, I came back to academia and worked on the ERC project SPRINT (i.e. Speech Prosody in Interaction: The form and function of intonation in human communication, ERC-ADG-835263 ) and further looked into the aspects of English and Greek intonation in speech production.
+
+<div class="cv">
+
+</div>

@@ -18,7 +18,7 @@ nav_order: 1
 {% endfor %}
 
 
-<h1>tools and tutorials</h1>
+<h1>tools, datasets, tutorials, etc.</h1>
 {% bibliography -f tools %}
 
 </div>
